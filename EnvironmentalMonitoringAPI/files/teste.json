@@ -1,0 +1,84 @@
+[
+    {
+        "id": "RULAEQ0004",
+        "date": "202105122100",
+        "dateStandard": "UTC",
+        "value": 80,
+        "unit": "dB(A)",
+        "address": "Restelo - Rua Gonçalo Velho Cabral",
+        "coordinates": {
+            "x": -92781,
+            "y": -106663,
+            "z": 0,
+            "lat": 38.70263097,
+            "lng": -9.199692206
+        }
+    },
+    {
+        "id": "RULAEQ0004",
+        "date": "202105121800",
+        "dateStandard": "UTC",
+        "value": 10,
+        "unit": "dB(A)",
+        "address": "Restelo - Rua Gonçalo Velho Cabral",
+        "coordinates": {
+            "x": -92781,
+            "y": -106663,
+            "z": 0,
+            "lat": 38.70263097,
+            "lng": -9.199692206
+        }
+    },
+    {
+        "id": "RULAEQ0003",
+        "date": "202105121800",
+        "dateStandard": "UTC",
+        "value": 53,
+        "unit": "dB(A)"
+    },
+    {
+        "id": "RULAEQ0002",
+        "date": "202105121800",
+        "dateStandard": "UTC",
+        "value": 95,
+        "unit": "dB(A)",
+        "address": "Calcada da Ajuda",
+        "coordinates": {
+            "x": -92781,
+            "y": -106663,
+            "z": 0,
+            "lat": 38.70263097,
+            "lng": -9.199692206
+        }
+    },
+    {
+        "id": "RULAEQ0003",
+        "date": "202105122100",
+        "dateStandard": "UTC",
+        "value": 53,
+        "unit": "dB(A)",
+        "address": "Calcada da Ajuda",
+        "coordinates": {
+            "x": -92781,
+            "y": -106663,
+            "z": 0,
+            "lat": 38.70263097,
+            "lng": -9.199692206
+        },
+    }
+    {
+        "id": "QA00CO0001",
+        "date": "202105122100",
+        "dateStandard": "UTC",
+        "value": 53,
+        "unit": "mg/m3",
+        "address": "Calcada da Ajuda",
+        "coordinates": {
+            "x": -92781,
+            "y": -106663,
+            "z": 0,
+            "lat": 38.70263097,
+            "lng": -9.199692206
+        },
+    }
+]
